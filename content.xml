@@ -1,0 +1,3457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026041623040916AKMA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260416230409R035FE</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Detective de los Sonidos.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Conciencia Fonológica (Vocales).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María José Casado Lara</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se trata de un proyecto para que el alumnado trabaje la conciencia fonológica y le ayude en el proceso de la lecto-escritura.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776372668744</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo1yf7ch-e7jiryehq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Detective de los sonidos. Conciencia fonológica (Vocales)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detective de los sonidos. Conciencia fonológica (Vocales)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Detective de los sonidos. Conciencia fonológica (Vocales)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Detective de los sonidos. Conciencia fonológica (Vocales)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7ch-e7jiryehq</odePageId>
+      <odeBlockId>20260416103240PXYZZV</odeBlockId>
+      <blockName>Introducción.&amp;nbsp;</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7ch-e7jiryehq</odePageId>
+          <odeBlockId>20260416103240PXYZZV</odeBlockId>
+          <odeIdeviceId>20260412134406464Y76</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start --><div class="exe-image-gallery-template"><!-- Idevice content start -->
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body">
+                </div>
+            </div><!-- Idevice content end --></div><!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412134406464Y76"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1yf7ch-e7jiryehq</odePageId>
+      <odeBlockId>20260416103240AQFHWY</odeBlockId>
+      <blockName>¿Qué es la conciencia fonológica?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7ch-e7jiryehq</odePageId>
+          <odeBlockId>20260416103240AQFHWY</odeBlockId>
+          <odeIdeviceId>202604121722436500DX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/202604121722436500DX/wooden-dice-with-letters-them-pages-book.jpg" width="800" height="534" alt="Conciencia fonológica">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p>La conciencia fonológica es considerada como requisito clave en la adquisición de la lectoescritura y debemos desarrollarla como una habilidad necesaria para ello.</p>
+<p>&nbsp;Existen juegos simples que ayudan a los niños a desarrollar de mejor manera sus habilidades fonológicas, entre ellos destaca la entretención a la hora de aprender, generando que la experiencia sea mucho más significativa, sin necesidad de utilizar materiales complejos, así la familia también puede formar parte de este proceso.</p>
+<p><br>Por otra parte, las habilidades fonológicas son aquellas que nos permite reflexionar sobre los sonidos del habla, propios de la lengua, es decir, aquella habilidad que nos permite pensar, distinguir y seleccionar los fonemas, concientizando las cualidades<br>sonoras.</p>
+<p><br>OBJETIVOS:</p>
+<p><br> Comprender y renarrar las lecturas realizadas por el adulto referente.<br> Discriminar y articular los fonemas, aislados o dentro de palabras.<br> Identificar la cantidad de sílabas que tiene una palabra.<br> Reconocer auditivamente las rimas.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604121722436500DX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/202604121722436500DX/wooden-dice-with-letters-them-pages-book.jpg\" width=\"800\" height=\"534\" alt=\"Conciencia fonológica\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p>La conciencia fonológica es considerada como requisito clave en la adquisición de la lectoescritura y debemos desarrollarla como una habilidad necesaria para ello.</p>\n<p> Existen juegos simples que ayudan a los niños a desarrollar de mejor manera sus habilidades fonológicas, entre ellos destaca la entretención a la hora de aprender, generando que la experiencia sea mucho más significativa, sin necesidad de utilizar materiales complejos, así la familia también puede formar parte de este proceso.</p>\n<p><br />Por otra parte, las habilidades fonológicas son aquellas que nos permite reflexionar sobre los sonidos del habla, propios de la lengua, es decir, aquella habilidad que nos permite pensar, distinguir y seleccionar los fonemas, concientizando las cualidades<br />sonoras.</p>\n<p><br />OBJETIVOS:</p>\n<p><br /> Comprender y renarrar las lecturas realizadas por el adulto referente.<br /> Discriminar y articular los fonemas, aislados o dentro de palabras.<br /> Identificar la cantidad de sílabas que tiene una palabra.<br /> Reconocer auditivamente las rimas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cn-xxxxqo8ba</odePageId>
+  <odeParentPageId>page-mo1yf7ch-e7jiryehq</odeParentPageId>
+  <pageName>SDA. Detective de Sonidos (Proyecto)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA. Detective de Sonidos (Proyecto)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA. Detective de Sonidos (Proyecto)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SDA. Detective de Sonidos (Proyecto)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cn-xxxxqo8ba</odePageId>
+      <odeBlockId>20260416103240LGMUPX</odeBlockId>
+      <blockName>Este proyecto se va a comenzar con educación infantil y se irá ampliando progresivamente al primer ciclo de educación primaria.&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cn-xxxxqo8ba</odePageId>
+          <odeBlockId>20260416103240LGMUPX</odeBlockId>
+          <odeIdeviceId>20260412171846851J3W</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: justify;"><img src="{{context_path}}/content/resources/20260412171846851J3W/Poster_las_6_emociones_bsicas_grfica_colorida_.jpg" width="600" height="849" alt="Presentacion y descripción del proyecto" class="position-center"></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412171846851J3W","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/20260412171846851J3W/Poster_las_6_emociones_bsicas_grfica_colorida_.jpg\" width=\"600\" height=\"849\" alt=\"Presentacion y descripción del proyecto\" class=\"position-center\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cn-xxxxqo8ba</odePageId>
+      <odeBlockId>20260416103240IRQNDQ</odeBlockId>
+      <blockName>Índice</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cn-xxxxqo8ba</odePageId>
+          <odeBlockId>20260416103240IRQNDQ</odeBlockId>
+          <odeIdeviceId>20260415131330393ZZ2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Os mostramos un índice de todo el proyecto Detective de Sonidos:&nbsp;</p>
+<p></p>
+<ul>
+<li><a href="descripcion.html" id="link_0">Descripción.&nbsp;</a></li>
+<li><a href="justificacion.html" id="link_1">Justificación.</a></li>
+<li><a href="centro-de-interes.html" id="link_2">Centro de Interés.</a></li>
+<li><a href="nivel-educativo.html" id="link_3">Nivel Educativo.&nbsp;</a></li>
+<li><a href="temporalizacion.html" id="link_4">Temporalización.&nbsp;</a></li>
+<li><a href="materias-e-idioma-.html" id="link_5">Materias e idioma.</a></li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415131330393ZZ2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os mostramos un índice de todo el proyecto Detective de Sonidos: </p>\n<p></p>\n<ul>\n<li><a href=\"exe-node:page-mo1yf7cp-ufdzq5bbo\" id=\"link_0\">Descripción. </a></li>\n<li><a href=\"exe-node:page-mo1yf7cp-wwrqtmqh8\" id=\"link_1\">Justificación.</a></li>\n<li><a href=\"exe-node:page-mo1yf7cq-xq5xyr5gu\" id=\"link_2\">Centro de Interés.</a></li>\n<li><a href=\"exe-node:page-mo1yf7cr-s9zmea25k\" id=\"link_3\">Nivel Educativo. </a></li>\n<li><a href=\"exe-node:page-mo1yf7cr-xte1b7pt1\" id=\"link_4\">Temporalización. </a></li>\n<li><a href=\"exe-node:page-mo1yf7cs-ofxrbq17g\" id=\"link_5\">Materias e idioma.</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cp-ufdzq5bbo</odePageId>
+  <odeParentPageId>page-mo1yf7cn-xxxxqo8ba</odeParentPageId>
+  <pageName>Descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cp-ufdzq5bbo</odePageId>
+      <odeBlockId>20260416103240NIOMSB</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cp-ufdzq5bbo</odePageId>
+          <odeBlockId>20260416103240NIOMSB</odeBlockId>
+          <odeIdeviceId>2026041218401940074C</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Se pretende que los niños desarrollen la capacidad de escuchar, identificar y manipular los sonidos del lenguaje, reconociendo sílabas y fonemas. Esto favorece la lectura, la escritura y el desarrollo del lenguaje oral.</p>
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/2026041218401940074C/0xof_7zf5_170621.jpg" width="500" height="771" alt="detective">
+<figcaption class="figcaption"><a href="freepik" class="author" target="_blank" rel="noopener">freepik</a>.</figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026041218401940074C","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se pretende que los niños desarrollen la capacidad de escuchar, identificar y manipular los sonidos del lenguaje, reconociendo sílabas y fonemas. Esto favorece la lectura, la escritura y el desarrollo del lenguaje oral.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/2026041218401940074C/0xof_7zf5_170621.jpg\" width=\"500\" height=\"771\" alt=\"detective\" />\n<figcaption class=\"figcaption\"><a href=\"freepik\" class=\"author\" target=\"_blank\" rel=\"noopener\">freepik</a>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cp-wwrqtmqh8</odePageId>
+  <odeParentPageId>page-mo1yf7cn-xxxxqo8ba</odeParentPageId>
+  <pageName>Justificación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cp-wwrqtmqh8</odePageId>
+      <odeBlockId>20260416103240LKMXLI</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cp-wwrqtmqh8</odePageId>
+          <odeBlockId>20260416103240LKMXLI</odeBlockId>
+          <odeIdeviceId>20260412184101401FPF</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260412184101401FPF/8456167.jpg" width="500" height="333" alt="conciencia fonológica">
+<figcaption class="figcaption"><a href="freepik" class="author" target="_blank" rel="noopener">freepik</a>.</figcaption>
+</figure>
+<p>Trabajar la conciencia fonológica en Educación Infantil es fundamental porque es la base para el aprendizaje de la lectura y la escritura. Los niños desarrollan la capacidad de reconocer y manipular los sonidos del lenguaje, lo que facilita la asociación entre sonidos y letras.<br>Su estimulación temprana favorece el desarrollo del lenguaje oral, la atención y la memoria, y contribuye a prevenir posibles dificultades en la lectoescritura. Es esencial hacerlo de forma lúdica y significativa en el aula.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412184101401FPF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260412184101401FPF/8456167.jpg\" width=\"500\" height=\"333\" alt=\"conciencia fonológica\" />\n<figcaption class=\"figcaption\"><a href=\"freepik\" class=\"author\" target=\"_blank\" rel=\"noopener\">freepik</a>.</figcaption>\n</figure>\n<p>Trabajar la conciencia fonológica en Educación Infantil es fundamental porque es la base para el aprendizaje de la lectura y la escritura. Los niños desarrollan la capacidad de reconocer y manipular los sonidos del lenguaje, lo que facilita la asociación entre sonidos y letras.<br />Su estimulación temprana favorece el desarrollo del lenguaje oral, la atención y la memoria, y contribuye a prevenir posibles dificultades en la lectoescritura. Es esencial hacerlo de forma lúdica y significativa en el aula.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cq-xq5xyr5gu</odePageId>
+  <odeParentPageId>page-mo1yf7cn-xxxxqo8ba</odeParentPageId>
+  <pageName>Centro de interés</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Centro de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Centro de interés</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cq-xq5xyr5gu</odePageId>
+      <odeBlockId>20260416103240TRCTTY</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cq-xq5xyr5gu</odePageId>
+          <odeBlockId>20260416103240TRCTTY</odeBlockId>
+          <odeIdeviceId>20260412184122627LYD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>El centro de interés que se va a trabajar es la Conciencia&nbsp; Fonológica.&nbsp;</p>
+<p><br></p>
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260412184122627LYD/6417960.jpg" width="500" height="500" alt="maestra">
+<figcaption class="figcaption"><a href="freepik" class="author" target="_blank" rel="noopener">freepik</a>.</figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412184122627LYD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El centro de interés que se va a trabajar es la Conciencia  Fonológica. </p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260412184122627LYD/6417960.jpg\" width=\"500\" height=\"500\" alt=\"maestra\" />\n<figcaption class=\"figcaption\"><a href=\"freepik\" class=\"author\" target=\"_blank\" rel=\"noopener\">freepik</a>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cr-s9zmea25k</odePageId>
+  <odeParentPageId>page-mo1yf7cn-xxxxqo8ba</odeParentPageId>
+  <pageName>Nivel educativo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel educativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nivel educativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cr-s9zmea25k</odePageId>
+      <odeBlockId>20260416103240FJPIAR</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cr-s9zmea25k</odePageId>
+          <odeBlockId>20260416103240FJPIAR</odeBlockId>
+          <odeIdeviceId>20260412184147307HF4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 520px;"><img src="{{context_path}}/content/resources/20260412184147307HF4/2657.jpg" width="520" height="465" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p><br></p>
+<p>Educación Infantil y Primer ciclo de Educación Primaria.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412184147307HF4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 520px;\"><img src=\"{{context_path}}/content/resources/20260412184147307HF4/2657.jpg\" width=\"520\" height=\"465\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p>Educación Infantil y Primer ciclo de Educación Primaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cr-xte1b7pt1</odePageId>
+  <odeParentPageId>page-mo1yf7cn-xxxxqo8ba</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cr-xte1b7pt1</odePageId>
+      <odeBlockId>20260416103240SLEBUF</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cr-xte1b7pt1</odePageId>
+          <odeBlockId>20260416103240SLEBUF</odeBlockId>
+          <odeIdeviceId>20260412184217860EX8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/20260412184217860EX8/26073.jpg" width="800" height="771" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p><br></p>
+<p>Esta primera quincena se realizará sobre la concienciación de las vocales. Después se seguirá&nbsp; realizando durante todo el curso, una vez a la semana.&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412184217860EX8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/20260412184217860EX8/26073.jpg\" width=\"800\" height=\"771\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p>Esta primera quincena se realizará sobre la concienciación de las vocales. Después se seguirá  realizando durante todo el curso, una vez a la semana. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cs-ofxrbq17g</odePageId>
+  <odeParentPageId>page-mo1yf7cn-xxxxqo8ba</odeParentPageId>
+  <pageName>Materias e idioma. </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materias e idioma. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Materias e idioma. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cs-ofxrbq17g</odePageId>
+      <odeBlockId>20260416103240ZFYNDU</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cs-ofxrbq17g</odePageId>
+          <odeBlockId>20260416103240ZFYNDU</odeBlockId>
+          <odeIdeviceId>20260412184422233Z7A</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: justify;"></p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/20260412184422233Z7A/6331333.jpg" width="800" height="800" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>Se realizará en&nbsp; Audición y Lenguaje, con la maestra profesional de esta materia. El idioma será el español.&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412184422233Z7A","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/20260412184422233Z7A/6331333.jpg\" width=\"800\" height=\"800\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>Se realizará en  Audición y Lenguaje, con la maestra profesional de esta materia. El idioma será el español. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cs-6oltl8qa1</odePageId>
+  <odeParentPageId>page-mo1yf7ch-e7jiryehq</odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cs-6oltl8qa1</odePageId>
+      <odeBlockId>20260416103240PCSRCZ</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cs-6oltl8qa1</odePageId>
+          <odeBlockId>20260416103240PCSRCZ</odeBlockId>
+          <odeIdeviceId>20260412200143052NQ9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En esta Situación de Aprendizaje titulada “Los detectives de los sonidos”, los niños y niñas se convertirán en pequeños exploradores del lenguaje, desarrollando su conciencia fonológica a través de actividades lúdicas y motivadoras.</p>
+<p>A lo largo de las sesiones, investigarán, escucharán y jugarán con los sonidos del habla, comenzando por el reconocimiento y la discriminación de las vocales. Mediante juegos, canciones, cuentos y dinámicas participativas, aprenderán a identificar, pronunciar y asociar los sonidos vocálicos con palabras de su entorno cercano.</p>
+<p>El objetivo es que, a través de la experimentación y el juego, el alumnado adquiera una base sólida para el desarrollo de la lectoescritura, fomentando al mismo tiempo la curiosidad, la atención y el gusto por el lenguaje.</p>
+<p>Se realizarán las siguientes actividades:&nbsp;</p>
+<ul style="list-style-type: circle;">
+<li>&nbsp;<a href="articulemas-vocales.html" id="link_10" title="">Articulemas.</a></li>
+<li><a href="empieza-y-termina-por-power-point.html" id="link_11">Empieza y termina por... (Power point)</a></li>
+<li><a href="empieza-y-termina-por-genialy.html" id="link_12">Empieza y termina por... (Genialy).&nbsp;</a></li>
+<li><a href="clasifica-las-palabras-por.html" id="link_13">Clasifica las palabras por...&nbsp;</a></li>
+<li><a href="bingo-de-las-vocales.html" id="link_14">Bingo de las vocales.&nbsp;</a></li>
+<li><a href="ficha-de-las-vocales-clasifica-e-identifica.html" id="link_15">Ficha de las vocales (Clasifica e identifica).</a></li>
+<li><a href="juego-manipulativo-de-las-vocales-.html" id="link_16">Juego manipulativo de las vocales.&nbsp;</a></li>
+<li><a href="otras-fichas-de-vocales.html" id="link_0">Otras fichas de vocales.&nbsp;</a></li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412200143052NQ9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje titulada “Los detectives de los sonidos”, los niños y niñas se convertirán en pequeños exploradores del lenguaje, desarrollando su conciencia fonológica a través de actividades lúdicas y motivadoras.</p>\n<p>A lo largo de las sesiones, investigarán, escucharán y jugarán con los sonidos del habla, comenzando por el reconocimiento y la discriminación de las vocales. Mediante juegos, canciones, cuentos y dinámicas participativas, aprenderán a identificar, pronunciar y asociar los sonidos vocálicos con palabras de su entorno cercano.</p>\n<p>El objetivo es que, a través de la experimentación y el juego, el alumnado adquiera una base sólida para el desarrollo de la lectoescritura, fomentando al mismo tiempo la curiosidad, la atención y el gusto por el lenguaje.</p>\n<p>Se realizarán las siguientes actividades: </p>\n<ul style=\"list-style-type: circle;\">\n<li> <a href=\"exe-node:page-mo1yf7ct-hslzfdlmv\" id=\"link_10\" title=\"\">Articulemas.</a></li>\n<li><a href=\"exe-node:page-mo1yf7cu-etqu69lw8\" id=\"link_11\">Empieza y termina por... (Power point)</a></li>\n<li><a href=\"exe-node:page-mo1yf7cu-usextaxtv\" id=\"link_12\">Empieza y termina por... (Genialy). </a></li>\n<li><a href=\"exe-node:page-mo1yf7cv-gbfq2g1pw\" id=\"link_13\">Clasifica las palabras por... </a></li>\n<li><a href=\"exe-node:page-mo1yf7cw-l5vzgwsse\" id=\"link_14\">Bingo de las vocales. </a></li>\n<li><a href=\"exe-node:page-mo1yf7cw-p0e8u5hio\" id=\"link_15\">Ficha de las vocales (Clasifica e identifica).</a></li>\n<li><a href=\"exe-node:page-mo1yf7cw-06us7rfs9\" id=\"link_16\">Juego manipulativo de las vocales. </a></li>\n<li><a href=\"exe-node:page-mo1yf7cx-2uio3mxh4\" id=\"link_0\">Otras fichas de vocales. </a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7ct-hslzfdlmv</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Articulemas (Vocales)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Articulemas (Vocales)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Articulemas (Vocales)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7ct-hslzfdlmv</odePageId>
+      <odeBlockId>20260416103240MUAOTM</odeBlockId>
+      <blockName>Actividad 1: articulemas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7ct-hslzfdlmv</odePageId>
+          <odeBlockId>20260416103240MUAOTM</odeBlockId>
+          <odeIdeviceId>202604151327208300FD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/202604151327208300FD/8444464.jpg" width="500" height="500" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>Vamos a ver un documento donde nos presentan los articulemas de las vocales y después vamos a identificar cada uno de ellos.&nbsp;</p>
+<p><a href="https://drive.google.com/file/d/1AJJLg2kYIgitri-uwh5K96kpSB9f5ixs/view?usp=sharing" id="link_7">https://drive.google.com/file/d/1AJJLg2kYIgitri-uwh5K96kpSB9f5ixs/view?usp=sharing</a></p>
+<p><br></p>
+<p style="text-align: justify;">También veremos varios vídeos sobre las vocales.</p>
+<p style="text-align: justify;"><br></p>
+<p style="text-align: justify;"><iframe width="560" height="315" src="https://www.youtube.com/embed/eqeGru9T728?si=yW1Od7ViB0CCRKG9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/DDg0cHSR1wY?si=VsdM4tovxhnz8qR2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604151327208300FD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/202604151327208300FD/8444464.jpg\" width=\"500\" height=\"500\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>Vamos a ver un documento donde nos presentan los articulemas de las vocales y después vamos a identificar cada uno de ellos. </p>\n<p><a href=\"https://drive.google.com/file/d/1AJJLg2kYIgitri-uwh5K96kpSB9f5ixs/view?usp=sharing\" id=\"link_7\">https://drive.google.com/file/d/1AJJLg2kYIgitri-uwh5K96kpSB9f5ixs/view?usp=sharing</a></p>\n<p><br /></p>\n<p style=\"text-align: justify;\">También veremos varios vídeos sobre las vocales.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eqeGru9T728?si=yW1Od7ViB0CCRKG9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DDg0cHSR1wY?si=VsdM4tovxhnz8qR2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cu-etqu69lw8</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Empieza y termina por... (Power point)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empieza y termina por... (Power point)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empieza y termina por... (Power point)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cu-etqu69lw8</odePageId>
+      <odeBlockId>20260416103240OHVSJT</odeBlockId>
+      <blockName>Actividad 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cu-etqu69lw8</odePageId>
+          <odeBlockId>20260416103240OHVSJT</odeBlockId>
+          <odeIdeviceId>20260415133612017KBF</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260415133612017KBF/8540168.jpg" width="500" height="500" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>Os presentamos un juego donde el alumnado debe ir diferenciando por que vocal empieza y acaba esas palabras.&nbsp;</p>
+<p>Se trata de una presentación en power point, ayudará a los niños a través del juego y con la ayuda de los articulemas a reconocerlos.&nbsp;</p>
+<ol style="list-style-type: upper-alpha;">
+<li id="link_4"><a href="https://docs.google.com/presentation/d/1mlSPmCZPlNdLiS8382aZ2Rr0djoLKhDo/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true">https://docs.google.com/presentation/d/1mlSPmCZPlNdLiS8382aZ2Rr0djoLKhDo/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true</a></li>
+<li id="link_5"><a href="https://docs.google.com/presentation/d/161PZjz0U1XpcZIdHWa7csozh4nMkbRkk/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true">https://docs.google.com/presentation/d/161PZjz0U1XpcZIdHWa7csozh4nMkbRkk/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true</a></li>
+<li id="link_6"><a href="https://docs.google.com/presentation/d/1JnGRN7vkYd4xKEKXuQvxsuvSZl7Y5BiE/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true">https://docs.google.com/presentation/d/1JnGRN7vkYd4xKEKXuQvxsuvSZl7Y5BiE/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true</a></li>
+</ol><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415133612017KBF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260415133612017KBF/8540168.jpg\" width=\"500\" height=\"500\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>Os presentamos un juego donde el alumnado debe ir diferenciando por que vocal empieza y acaba esas palabras. </p>\n<p>Se trata de una presentación en power point, ayudará a los niños a través del juego y con la ayuda de los articulemas a reconocerlos. </p>\n<ol style=\"list-style-type: upper-alpha;\">\n<li id=\"link_4\"><a href=\"https://docs.google.com/presentation/d/1mlSPmCZPlNdLiS8382aZ2Rr0djoLKhDo/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true\">https://docs.google.com/presentation/d/1mlSPmCZPlNdLiS8382aZ2Rr0djoLKhDo/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true</a></li>\n<li id=\"link_5\"><a href=\"https://docs.google.com/presentation/d/161PZjz0U1XpcZIdHWa7csozh4nMkbRkk/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true\">https://docs.google.com/presentation/d/161PZjz0U1XpcZIdHWa7csozh4nMkbRkk/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true</a></li>\n<li id=\"link_6\"><a href=\"https://docs.google.com/presentation/d/1JnGRN7vkYd4xKEKXuQvxsuvSZl7Y5BiE/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true\">https://docs.google.com/presentation/d/1JnGRN7vkYd4xKEKXuQvxsuvSZl7Y5BiE/edit?usp=sharing&ouid=105472009971316443365&rtpof=true&sd=true</a></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cu-usextaxtv</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Empieza y termina por... (Genialy)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empieza y termina por... (Genialy)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Empieza y termina por... (Genialy)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cu-usextaxtv</odePageId>
+      <odeBlockId>20260416103240LKWEFT</odeBlockId>
+      <blockName>Actividad 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cu-usextaxtv</odePageId>
+          <odeBlockId>20260416103240LKWEFT</odeBlockId>
+          <odeIdeviceId>202604151338248064OS</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/202604151338248064OS/8458443.jpg" width="500" height="500" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>Hoy vamos a prácticar lo ya aprendido de las vocales con un divertido juego de Genialy sobre las vocales.&nbsp;</p>
+<p>Debemos jugar a "¿Por qué vocal empieza esta palabra?" y "¿Por qué vocal acaba esta palabra?".&nbsp;</p>
+<p>Es un divertido juego para aprender cosas nuevas junto con tus compañeros.&nbsp;</p>
+<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video width="80" height="80" style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; margin-bottom: 10%;" class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" data-mce-fragment="1"><source src="https://static.genially.com/resources/loader-default-rebranding.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<div id="5ea47d318cfd990d7d834aae" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div>
+</div>
+<p>
+<script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genially.com/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+<br></p>
+<p><br></p>
+<p><br></p>
+<p>También añadimos otros juegos de Genialy para trabajar palabras que empiezan por... y terminan por...&nbsp;</p>
+<ul>
+<li><code><a href="https://view.genially.com/5eba33e28a39780d0f6778f8">https://view.genially.com/5eba33e28a39780d0f6778f8</a></code><code></code></li>
+<li><code><a href="https://view.genially.com/5eba35f68a39780d0f67790a">https://view.genially.com/5eba35f68a39780d0f67790a</a></code></li>
+<li><code><a href="https://view.genially.com/5ebcd511e87b0e0d2560a3a0">https://view.genially.com/5ebcd511e87b0e0d2560a3a0</a></code></li>
+<li>
+<pre><code><a href="https://view.genially.com/5ebcd5af99c3dc0d2ad92cdf">https://view.genially.com/5ebcd5af99c3dc0d2ad92cdf</a><br></code></pre>
+<br><code></code></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<pre><code></code></pre>
+<pre><code>
+<script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genially.com/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+</code></pre><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604151338248064OS","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/202604151338248064OS/8458443.jpg\" width=\"500\" height=\"500\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>Hoy vamos a prácticar lo ya aprendido de las vocales con un divertido juego de Genialy sobre las vocales. </p>\n<p>Debemos jugar a \"¿Por qué vocal empieza esta palabra?\" y \"¿Por qué vocal acaba esta palabra?\". </p>\n<p>Es un divertido juego para aprender cosas nuevas junto con tus compañeros. </p>\n<div class=\"container-wrapper-genially\" style=\"position: relative; min-height: 400px; max-width: 100%;\"><video width=\"80\" height=\"80\" style=\"position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; margin-bottom: 10%;\" class=\"loader-genially\" autoplay=\"autoplay\" loop=\"loop\" playsinline=\"playsInline\" muted=\"muted\" data-mce-fragment=\"1\"><source src=\"https://static.genially.com/resources/loader-default-rebranding.mp4\" type=\"video/mp4\" />Your browser does not support the video tag.</video>\n<div id=\"5ea47d318cfd990d7d834aae\" class=\"genially-embed\" style=\"margin: 0px auto; position: relative; height: auto; width: 100%;\"></div>\n</div>\n<p>\n<script>(function (d) { var js, id = \"genially-embed-js\", ref = d.getElementsByTagName(\"script\")[0]; if (d.getElementById(id)) { return; } js = d.createElement(\"script\"); js.id = id; js.async = true; js.src = \"https://view.genially.com/static/embed/embed.js\"; ref.parentNode.insertBefore(js, ref); }(document));</script>\n<br /></p>\n<p><br /></p>\n<p><br /></p>\n<p>También añadimos otros juegos de Genialy para trabajar palabras que empiezan por... y terminan por... </p>\n<ul>\n<li><code><a href=\"https://view.genially.com/5eba33e28a39780d0f6778f8\">https://view.genially.com/5eba33e28a39780d0f6778f8</a></code><code></code></li>\n<li><code><a href=\"https://view.genially.com/5eba35f68a39780d0f67790a\">https://view.genially.com/5eba35f68a39780d0f67790a</a></code></li>\n<li><code><a href=\"https://view.genially.com/5ebcd511e87b0e0d2560a3a0\">https://view.genially.com/5ebcd511e87b0e0d2560a3a0</a></code></li>\n<li>\n<pre><code><a href=\"https://view.genially.com/5ebcd5af99c3dc0d2ad92cdf\">https://view.genially.com/5ebcd5af99c3dc0d2ad92cdf</a><br /></code></pre>\n<br /><code></code></li>\n</ul>\n<p><br /></p>\n<p><br /></p>\n<pre><code></code></pre>\n<pre><code>\n<script>(function (d) { var js, id = \"genially-embed-js\", ref = d.getElementsByTagName(\"script\")[0]; if (d.getElementById(id)) { return; } js = d.createElement(\"script\"); js.id = id; js.async = true; js.src = \"https://view.genially.com/static/embed/embed.js\"; ref.parentNode.insertBefore(js, ref); }(document));</script>\n</code></pre>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cv-gbfq2g1pw</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Clasifica las palabras por...</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasifica las palabras por...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Clasifica las palabras por...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cv-gbfq2g1pw</odePageId>
+      <odeBlockId>20260416103240GBWTRA</odeBlockId>
+      <blockName>Actividad 4&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cv-gbfq2g1pw</odePageId>
+          <odeBlockId>20260416103240GBWTRA</odeBlockId>
+          <odeIdeviceId>20260415134113028EQ6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260415134113028EQ6/8548192.jpg" width="500" height="500" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>En esta cuarta actividad, vamos a clasificar de una manera manipulativa y oral las palabras. Iremos reconociendo las vocales de una manera más individual para ver si se han ido adquiriendo los conceptos que estamos trabajando.&nbsp;</p>
+<p>Para ello utilizaremos este enlace:&nbsp;</p>
+<p><br></p>
+<ol style="list-style-type: lower-alpha;">
+<li id="link_3">&nbsp;<a href="https://drive.google.com/file/d/17AiJj2dgsEXiL3CrhCJkLn4UB2yJ-dN7/view?usp=sharing">https://drive.google.com/file/d/17AiJj2dgsEXiL3CrhCJkLn4UB2yJ-dN7/view?usp=sharing</a></li>
+</ol><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415134113028EQ6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260415134113028EQ6/8548192.jpg\" width=\"500\" height=\"500\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>En esta cuarta actividad, vamos a clasificar de una manera manipulativa y oral las palabras. Iremos reconociendo las vocales de una manera más individual para ver si se han ido adquiriendo los conceptos que estamos trabajando. </p>\n<p>Para ello utilizaremos este enlace: </p>\n<p><br /></p>\n<ol style=\"list-style-type: lower-alpha;\">\n<li id=\"link_3\"> <a href=\"https://drive.google.com/file/d/17AiJj2dgsEXiL3CrhCJkLn4UB2yJ-dN7/view?usp=sharing\">https://drive.google.com/file/d/17AiJj2dgsEXiL3CrhCJkLn4UB2yJ-dN7/view?usp=sharing</a></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cw-l5vzgwsse</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Bingo de las vocales.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bingo de las vocales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bingo de las vocales.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cw-l5vzgwsse</odePageId>
+      <odeBlockId>20260416103240IKXQAX</odeBlockId>
+      <blockName>Actividad 5&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cw-l5vzgwsse</odePageId>
+          <odeBlockId>20260416103240IKXQAX</odeBlockId>
+          <odeIdeviceId>20260415134623375MW1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260415134623375MW1/8548193.jpg" width="500" height="500" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>Llegamos a las quinta actividad, vamos a jugar al Bingo de las vocales. Todos juntos vamos a tener.....&nbsp;</p>
+<p>Este material lo utilizaremos en el aula de manera manipulativa pero también lo muestro aquí por si en casa se quiere utilizar.&nbsp;</p>
+<pre><span style="background-color: #b4d7ff;" id="link_6"> - <a href="https://drive.google.com/file/d/1IpsZltwC-17Yn9ArY77ML_d_ZMAWEl1q/view?usp=sharing">https://drive.google.com/file/d/1IpsZltwC-17Yn9ArY77ML_d_ZMAWEl1q/view?usp=sharing</a></span></pre>
+<p><br><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415134623375MW1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260415134623375MW1/8548193.jpg\" width=\"500\" height=\"500\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>Llegamos a las quinta actividad, vamos a jugar al Bingo de las vocales. Todos juntos vamos a tener..... </p>\n<p>Este material lo utilizaremos en el aula de manera manipulativa pero también lo muestro aquí por si en casa se quiere utilizar. </p>\n<pre><span style=\"background-color: #b4d7ff;\" id=\"link_6\"> - <a href=\"https://drive.google.com/file/d/1IpsZltwC-17Yn9ArY77ML_d_ZMAWEl1q/view?usp=sharing\">https://drive.google.com/file/d/1IpsZltwC-17Yn9ArY77ML_d_ZMAWEl1q/view?usp=sharing</a></span></pre>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cw-p0e8u5hio</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Ficha de las vocales (Clasifica e identifica)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ficha de las vocales (Clasifica e identifica)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ficha de las vocales (Clasifica e identifica)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cw-p0e8u5hio</odePageId>
+      <odeBlockId>20260416103240HSZWNE</odeBlockId>
+      <blockName>Actividad 6.&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cw-p0e8u5hio</odePageId>
+          <odeBlockId>20260416103240HSZWNE</odeBlockId>
+          <odeIdeviceId>20260415134726889WKK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><br></p>
+<p><br></p>
+<p><br></p>
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260415134726889WKK/9182041.jpg" width="500" height="333" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p>La ultima actividad de este proyecto de las vocales consistirá en realizar unas fichas interactivas para observar si el alumno ha adquirido los conceptos y reconoce las vocales en las palabras. También nos servirá para reforzarlo en aquellos alumnos que lo hayan adquirido.&nbsp;</p>
+<p>Os presento las fichas que realizaremos en el aula de Audición y Lenguaje.&nbsp;</p>
+<ul>
+<li id="link_7"><a href="https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/139120">https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/139120</a></li>
+<li id="link_8"><a href="https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210318">https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210318</a></li>
+<li id="link_9"><a href="https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210173">https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210173</a></li>
+</ul>
+<p><br></p>
+<p>Espero que os gusten también para repetirlas y hacerlas en casa.&nbsp;</p>
+<p><br></p>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415134726889WKK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260415134726889WKK/9182041.jpg\" width=\"500\" height=\"333\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p>La ultima actividad de este proyecto de las vocales consistirá en realizar unas fichas interactivas para observar si el alumno ha adquirido los conceptos y reconoce las vocales en las palabras. También nos servirá para reforzarlo en aquellos alumnos que lo hayan adquirido. </p>\n<p>Os presento las fichas que realizaremos en el aula de Audición y Lenguaje. </p>\n<ul>\n<li id=\"link_7\"><a href=\"https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/139120\">https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/139120</a></li>\n<li id=\"link_8\"><a href=\"https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210318\">https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210318</a></li>\n<li id=\"link_9\"><a href=\"https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210173\">https://www.liveworksheets.com/worksheet/es/audicion-y-lenguaje-al/210173</a></li>\n</ul>\n<p><br /></p>\n<p>Espero que os gusten también para repetirlas y hacerlas en casa. </p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cw-06us7rfs9</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Juego manipulativo de las vocales. </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juego manipulativo de las vocales. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Juego manipulativo de las vocales. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cw-06us7rfs9</odePageId>
+      <odeBlockId>20260416103240GNSKFV</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cw-06us7rfs9</odePageId>
+          <odeBlockId>20260416103240GNSKFV</odeBlockId>
+          <odeIdeviceId>20260415222345074N15</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260415222345074N15/9222531.jpg" width="500" height="333" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p><br></p>
+<p>Este material lo vamos a imprimir y trabajar de manera manipulativa.</p>
+<p><br></p>
+<pre id="link_2"><a href="https://drive.google.com/file/d/19T3NNPbzEiplujtzYcsT5uPx6kBL64cn/view?usp=sharing">https://drive.google.com/file/d/19T3NNPbzEiplujtzYcsT5uPx6kBL64cn/view?usp=sharing</a></pre>
+<p><br>&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415222345074N15","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260415222345074N15/9222531.jpg\" width=\"500\" height=\"333\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p><br /></p>\n<p>Este material lo vamos a imprimir y trabajar de manera manipulativa.</p>\n<p><br /></p>\n<pre id=\"link_2\"><a href=\"https://drive.google.com/file/d/19T3NNPbzEiplujtzYcsT5uPx6kBL64cn/view?usp=sharing\">https://drive.google.com/file/d/19T3NNPbzEiplujtzYcsT5uPx6kBL64cn/view?usp=sharing</a></pre>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cx-2uio3mxh4</odePageId>
+  <odeParentPageId>page-mo1yf7cs-6oltl8qa1</odeParentPageId>
+  <pageName>Otras fichas de vocales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Otras fichas de vocales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Otras fichas de vocales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Otras fichas de vocales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cx-2uio3mxh4</odePageId>
+      <odeBlockId>20260416103240XBOYUJ</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cx-2uio3mxh4</odePageId>
+          <odeBlockId>20260416103240XBOYUJ</odeBlockId>
+          <odeIdeviceId>2026041522190612134P</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/20260412184147307HF4/2657.jpg" width="500" height="448" alt="">
+<figcaption class="figcaption"><span class="author">Freepik</span>.</figcaption>
+</figure>
+<p></p>
+<p>Aquí os dejo otros ejercicios divertidos para trabajar las identificación y reconocimiento de las vocales.&nbsp;</p>
+<ol>
+<li id="link_1"><a href="https://drive.google.com/file/d/1JTymw1xcY8N4iBIwYGpaF0v-0qOpnbtW/view">https://drive.google.com/file/d/1JTymw1xcY8N4iBIwYGpaF0v-0qOpnbtW/view</a></li>
+</ol><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026041522190612134P","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/20260412184147307HF4/2657.jpg\" width=\"500\" height=\"448\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>.</figcaption>\n</figure>\n<p></p>\n<p>Aquí os dejo otros ejercicios divertidos para trabajar las identificación y reconocimiento de las vocales. </p>\n<ol>\n<li id=\"link_1\"><a href=\"https://drive.google.com/file/d/1JTymw1xcY8N4iBIwYGpaF0v-0qOpnbtW/view\">https://drive.google.com/file/d/1JTymw1xcY8N4iBIwYGpaF0v-0qOpnbtW/view</a></li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cx-ulst30wr9</odePageId>
+  <odeParentPageId>page-mo1yf7ch-e7jiryehq</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cx-ulst30wr9</odePageId>
+      <odeBlockId>20260416103240OZZPQA</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cx-ulst30wr9</odePageId>
+          <odeBlockId>20260416103240OZZPQA</odeBlockId>
+          <odeIdeviceId>20260412193217501ZR0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: justify;">La evaluación de la conciencia fonológica consiste en analizar la capacidad de una persona para identificar y manipular los sonidos del lenguaje oral. Este proceso incluye habilidades como reconocer rimas, segmentar palabras en sílabas y fonemas, y combinar sonidos para formar palabras. Es fundamental en el aprendizaje de la lectura y la escritura, ya que permite comprender la relación entre sonidos y letras. Una evaluación adecuada ayuda a detectar dificultades tempranas y a diseñar estrategias educativas que favorezcan el desarrollo lingüístico.</p>
+<ul style="list-style-type: square;">
+<li style="text-align: justify;"><a href="como-vamos-a-evaluar.html" id="link_17">¿Cómo vamos a evaluar?</a></li>
+<li style="text-align: justify;"><a href="rubrica-para-evaluar-al-alumnado-.html" id="link_18">Rúbrica para evaluar al alumnado.</a></li>
+<li style="text-align: justify;"><a href="rubrica-de-autoevaluacion.html" id="link_19">Rúbrica de autoevaluación.&nbsp;</a></li>
+<li style="text-align: justify;"><a href="tabla-de-observacion.html" id="link_20">Tabla de observación.&nbsp;</a></li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412193217501ZR0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La evaluación de la conciencia fonológica consiste en analizar la capacidad de una persona para identificar y manipular los sonidos del lenguaje oral. Este proceso incluye habilidades como reconocer rimas, segmentar palabras en sílabas y fonemas, y combinar sonidos para formar palabras. Es fundamental en el aprendizaje de la lectura y la escritura, ya que permite comprender la relación entre sonidos y letras. Una evaluación adecuada ayuda a detectar dificultades tempranas y a diseñar estrategias educativas que favorezcan el desarrollo lingüístico.</p>\n<ul style=\"list-style-type: square;\">\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mo1yf7cy-qz9zy2b11\" id=\"link_17\">¿Cómo vamos a evaluar?</a></li>\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mo1yf7cz-h0c3ydbea\" id=\"link_18\">Rúbrica para evaluar al alumnado.</a></li>\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mo1yf7cz-h2qebm45x\" id=\"link_19\">Rúbrica de autoevaluación. </a></li>\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mo1yf7d0-wd9hojqsc\" id=\"link_20\">Tabla de observación. </a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cy-qz9zy2b11</odePageId>
+  <odeParentPageId>page-mo1yf7cx-ulst30wr9</odeParentPageId>
+  <pageName>¿Cómo vamos a evaluar?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo vamos a evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo vamos a evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cy-qz9zy2b11</odePageId>
+      <odeBlockId>20260416103240RIQBJU</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cy-qz9zy2b11</odePageId>
+          <odeBlockId>20260416103240RIQBJU</odeBlockId>
+          <odeIdeviceId>20260412192448773C53</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En este documento se presenta cómo se va a evaluar si el alumno ha conseguido los objetivos planteados en esta SDA, los instrumentos que se van a utilizar...&nbsp;</p>
+<p></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412192448773C53","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este documento se presenta cómo se va a evaluar si el alumno ha conseguido los objetivos planteados en esta SDA, los instrumentos que se van a utilizar... </p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cy-qz9zy2b11</odePageId>
+      <odeBlockId>20260416103240LNYQXV</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cy-qz9zy2b11</odePageId>
+          <odeBlockId>20260416103240LNYQXV</odeBlockId>
+          <odeIdeviceId>20260412192837142IMT</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Evaluación. </td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td id="link_2">-<a href="{{context_path}}/content/resources/20260412192837142IMT/Modulo_8.__Evaluacin.MJCL.pdf" title="Modulo_8.__Evaluacin.MJCL.pdf" size="6.78 MB">{{context_path}}/content/resources/20260412192837142IMT/Modulo_8.__Evaluacin.MJCL.pdf</a></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cz-h0c3ydbea</odePageId>
+  <odeParentPageId>page-mo1yf7cx-ulst30wr9</odeParentPageId>
+  <pageName>Rúbrica para evaluar al alumnado </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica para evaluar al alumnado </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica para evaluar al alumnado </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cz-h0c3ydbea</odePageId>
+      <odeBlockId>20260416103240UDOCMV</odeBlockId>
+      <blockName>Documento/rúbrica para alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cz-h0c3ydbea</odePageId>
+          <odeBlockId>20260416103240UDOCMV</odeBlockId>
+          <odeIdeviceId>20260412191553348N4Z</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td id="link_0">-<a href="{{context_path}}/content/resources/20260412191553348N4Z/Rbrica_Detective_de_los_sonidos..pdf" title="Rbrica_Detective_de_los_sonidos..pdf" size="3.75 MB">{{context_path}}/content/resources/20260412191553348N4Z/Rbrica_Detective_de_los_sonidos..pdf</a></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7cz-h2qebm45x</odePageId>
+  <odeParentPageId>page-mo1yf7cx-ulst30wr9</odeParentPageId>
+  <pageName>Rúbrica de autoevaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica de autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7cz-h2qebm45x</odePageId>
+      <odeBlockId>20260416103240YQQEYT</odeBlockId>
+      <blockName>Documento/rúbrica de autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7cz-h2qebm45x</odePageId>
+          <odeBlockId>20260416103240YQQEYT</odeBlockId>
+          <odeIdeviceId>202604121919204110HF</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Autoevaluación de la maestra AL</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p><a href="{{context_path}}/content/resources/202604121919204110HF/Rbrica_Autoevaluacin.pdf" title="Rbrica_Autoevaluacin.pdf" size="8.97 MB" id="link_1">{{context_path}}/content/resources/202604121919204110HF/Rbrica_Autoevaluacin.pdf</a></p>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d0-wd9hojqsc</odePageId>
+  <odeParentPageId>page-mo1yf7cx-ulst30wr9</odeParentPageId>
+  <pageName>Tabla de Observación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tabla de Observación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tabla de Observación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d0-wd9hojqsc</odePageId>
+      <odeBlockId>20260416103240DHQFQN</odeBlockId>
+      <blockName>Documento que se utilizará para anotar el seguimiento de los alumnos.&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d0-wd9hojqsc</odePageId>
+          <odeBlockId>20260416103240DHQFQN</odeBlockId>
+          <odeIdeviceId>202604121920556783B0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 1024px;"><img src="{{context_path}}/content/resources/202604121920556783B0/1.jpg" width="1024" height="768" alt="Tabla observación 1">
+<figcaption class="figcaption"><span class="author">Maria José Casado Lara</span>.</figcaption>
+</figure>
+<p></p>
+<p></p>
+<figure class="exe-figure position-center" style="width: 1024px;"><img src="{{context_path}}/content/resources/202604121920556783B0/2.jpg" width="1024" height="768" alt="Tabla observación 2">
+<figcaption class="figcaption"><span class="author">Maria José Casado Lara</span>.</figcaption>
+</figure>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604121920556783B0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1024px;\"><img src=\"{{context_path}}/content/resources/202604121920556783B0/1.jpg\" width=\"1024\" height=\"768\" alt=\"Tabla observación 1\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Maria José Casado Lara</span>.</figcaption>\n</figure>\n<p></p>\n<p></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1024px;\"><img src=\"{{context_path}}/content/resources/202604121920556783B0/2.jpg\" width=\"1024\" height=\"768\" alt=\"Tabla observación 2\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Maria José Casado Lara</span>.</figcaption>\n</figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d0-wd9hojqsc</odePageId>
+      <odeBlockId>20260416103240OCHAZD</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d0-wd9hojqsc</odePageId>
+          <odeBlockId>20260416103240OCHAZD</odeBlockId>
+          <odeIdeviceId>20260412194107313AJL</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td id="link_3">Tabla de observación.<a href="{{context_path}}/content/resources/20260412194107313AJL/Tabla_Cuadro_Comparativo_de_Resultados_Acuarela_Rosa.pdf" title="Tabla_Cuadro_Comparativo_de_Resultados_Acuarela_Rosa.pdf" size="566.63 KB">{{context_path}}/content/resources/20260412194107313AJL/Tabla_Cuadro_Comparativo_de_Resultados_Acuarela_Rosa.pdf</a></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d1-tw2a6opp6</odePageId>
+  <odeParentPageId>page-mo1yf7ch-e7jiryehq</odeParentPageId>
+  <pageName>Licencias y seguridad </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Licencias y seguridad </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d1-tw2a6opp6</odePageId>
+      <odeBlockId>20260416103240TZUDTY</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d1-tw2a6opp6</odePageId>
+          <odeBlockId>20260416103240TZUDTY</odeBlockId>
+          <odeIdeviceId>20260412185913775LNH</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/20260412185913775LNH/Infografa_Biologa_Ciclo_de_Mariposa_Moderno_Ilustrativo_Rosa_y_Verde.jpg" width="800" height="2000" alt="licencias">
+<figcaption class="figcaption"><a href="Maria José Casado Lara" class="author" target="_blank" rel="noopener">Maria José Casado Lara</a>.</figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412185913775LNH","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/20260412185913775LNH/Infografa_Biologa_Ciclo_de_Mariposa_Moderno_Ilustrativo_Rosa_y_Verde.jpg\" width=\"800\" height=\"2000\" alt=\"licencias\" />\n<figcaption class=\"figcaption\"><a href=\"Maria José Casado Lara\" class=\"author\" target=\"_blank\" rel=\"noopener\">Maria José Casado Lara</a>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d2-wnbosy80t</odePageId>
+  <odeParentPageId>page-mo1yf7ch-e7jiryehq</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d2-wnbosy80t</odePageId>
+      <odeBlockId>20260416103240QJVFGJ</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d2-wnbosy80t</odePageId>
+          <odeBlockId>20260416103240QJVFGJ</odeBlockId>
+          <odeIdeviceId>20260412190043292TKZ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Se presenta una Guía Didáctica donde se expone el trabajo que se va a realizar tanto para la maestra de AL como también para otros profesionales que lo necesiten.</p>
+<figure class="exe-figure position-center" style="width: 1536px;"><img src="{{context_path}}/content/resources/20260412190043292TKZ/Presentacin_de_Grficos_Visuales_Lneas_de_Tiempo_Moderna_Infogrfica_Multicolor.jpg" width="1536" height="864" alt="Linea del tiempo">
+<figcaption class="figcaption"><span class="author">Maria José Casado Lara</span>.</figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412190043292TKZ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se presenta una Guía Didáctica donde se expone el trabajo que se va a realizar tanto para la maestra de AL como también para otros profesionales que lo necesiten.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px;\"><img src=\"{{context_path}}/content/resources/20260412190043292TKZ/Presentacin_de_Grficos_Visuales_Lneas_de_Tiempo_Moderna_Infogrfica_Multicolor.jpg\" width=\"1536\" height=\"864\" alt=\"Linea del tiempo\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Maria José Casado Lara</span>.</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d2-fqvy5f7ua</odePageId>
+  <odeParentPageId>page-mo1yf7ch-e7jiryehq</odeParentPageId>
+  <pageName>Material. </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Material. </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d2-fqvy5f7ua</odePageId>
+      <odeBlockId>20260416103240XPASFM</odeBlockId>
+      <blockName>&lt;br&gt;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d2-fqvy5f7ua</odePageId>
+          <odeBlockId>20260416103240XPASFM</odeBlockId>
+          <odeIdeviceId>20260415234122246D6O</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Por último, os mostramos otros materiales interesantes de este proyecto y que utilizaremos.&nbsp;</p>
+<ul style="list-style-type: square;">
+<li><a href="pasaporte.html" id="link_8">Pasaporte</a></li>
+<li><a href="symbaloo.html" id="link_10">Symbaloo</a></li>
+<li><a href="padlet.html" id="link_11">Padlet</a></li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260415234122246D6O","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Por último, os mostramos otros materiales interesantes de este proyecto y que utilizaremos. </p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"exe-node:page-mo1yf7d2-8cm7nl2eh\" id=\"link_8\">Pasaporte</a></li>\n<li><a href=\"exe-node:page-mo1yf7d3-9gpqbr3xc\" id=\"link_10\">Symbaloo</a></li>\n<li><a href=\"exe-node:page-mo1yf7d3-pdae1nhpg\" id=\"link_11\">Padlet</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d2-8cm7nl2eh</odePageId>
+  <odeParentPageId>page-mo1yf7d2-fqvy5f7ua</odeParentPageId>
+  <pageName>Pasaporte</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pasaporte</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pasaporte</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d2-8cm7nl2eh</odePageId>
+      <odeBlockId>20260416103240QLFCDD</odeBlockId>
+      <blockName>Pasaporte para el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d2-8cm7nl2eh</odePageId>
+          <odeBlockId>20260416103240QLFCDD</odeBlockId>
+          <odeIdeviceId>20260412190927902QKJ</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start --><div class="exe-image-gallery-template"><!-- Idevice content start -->
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="20260412190927902QKJ" title="" href="{{context_path}}/content/resources/20260412190927902QKJ/Hoja_de_Trabajo_Las_Vocales_Divertido_Verde.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/20260412190927902QKJ/Hoja_de_Trabajo_Las_Vocales_Divertido_Verde_thumb.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div><!-- Idevice content end --></div><!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260412190927902QKJ","img_0":{"img":"{{context_path}}/content/resources/20260412190927902QKJ/Hoja_de_Trabajo_Las_Vocales_Divertido_Verde.jpg","thumbnail":"{{context_path}}/content/resources/20260412190927902QKJ/Hoja_de_Trabajo_Las_Vocales_Divertido_Verde_thumb.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d3-9gpqbr3xc</odePageId>
+  <odeParentPageId>page-mo1yf7d2-fqvy5f7ua</odeParentPageId>
+  <pageName>Symbaloo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Symbaloo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d3-9gpqbr3xc</odePageId>
+      <odeBlockId>20260416103240QDKRAQ</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d3-9gpqbr3xc</odePageId>
+          <odeBlockId>20260416103240QDKRAQ</odeBlockId>
+          <odeIdeviceId>2026041522513786066W</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Aquí os dejamos el Symbaloo que tenemos donde hay diversas enlaces de páginas para trabajar la conciencia fonológica empezando por las vocales.&nbsp;</p>
+<pre><iframe width="930px" height="620px" frameborder="0" noresize="noresize" src="https://www.symbaloo.com/embed/universo-al"></iframe></pre>
+<pre><br><br></pre>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026041522513786066W","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí os dejamos el Symbaloo que tenemos donde hay diversas enlaces de páginas para trabajar la conciencia fonológica empezando por las vocales. </p>\n<pre><iframe width=\"930px\" height=\"620px\" frameborder=\"0\" noresize=\"noresize\" src=\"https://www.symbaloo.com/embed/universo-al\"></iframe></pre>\n<pre><br /><br /></pre>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo1yf7d3-pdae1nhpg</odePageId>
+  <odeParentPageId>page-mo1yf7d2-fqvy5f7ua</odeParentPageId>
+  <pageName>Padlet</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Padlet</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo1yf7d3-pdae1nhpg</odePageId>
+      <odeBlockId>20260416103240IAHUXL</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo1yf7d3-pdae1nhpg</odePageId>
+          <odeBlockId>20260416103240IAHUXL</odeBlockId>
+          <odeIdeviceId>202604152256514872BJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Os muestro por aquí también un padlet que hemos creado en el EOE y hay un mucho material interesante para las familias y profesionales.&nbsp;</p>
+<p></p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/nx811ykrw3vu1xqf" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0px; padding: 8px 8px 8px 0px; text-align: justify;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet"></a></div>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604152256514872BJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os muestro por aquí también un padlet que hemos creado en el EOE y hay un mucho material interesante para las familias y profesionales. </p>\n<p></p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/nx811ykrw3vu1xqf\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0px; padding: 8px 8px 8px 0px; text-align: justify;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
